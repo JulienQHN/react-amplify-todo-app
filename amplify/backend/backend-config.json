@@ -18,5 +18,13 @@
         }
       }
     }
+  },
+  "auth": {},
+  "function": {
+    "addBackgroundColorBlue": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }

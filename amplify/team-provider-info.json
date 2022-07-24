@@ -10,6 +10,30 @@
       "StackName": "amplify-reactamplified-dev-223926",
       "StackId": "arn:aws:cloudformation:eu-west-1:358157629435:stack/amplify-reactamplified-dev-223926/58612ca0-09fe-11ed-8fb7-0a5e620d1d37",
       "AmplifyAppId": "d2dpx6grrxvdcl"
+    },
+    "categories": {
+      "auth": {
+        "reactamplifieda643ce32": {},
+        "reactamplifiedc40f0ff5": {}
+      }
+    }
+  },
+  "devtwo": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactamplified-devtwo-03430-authRole",
+      "UnauthRoleArn": "arn:aws:iam::358157629435:role/amplify-reactamplified-devtwo-03430-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::358157629435:role/amplify-reactamplified-devtwo-03430-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-reactamplified-devtwo-03430-deployment",
+      "UnauthRoleName": "amplify-reactamplified-devtwo-03430-unauthRole",
+      "StackName": "amplify-reactamplified-devtwo-03430",
+      "StackId": "arn:aws:cloudformation:eu-west-1:358157629435:stack/amplify-reactamplified-devtwo-03430/9eb1c410-0ad7-11ed-ae98-0243de477427",
+      "AmplifyAppId": "d2dpx6grrxvdcl"
+    },
+    "categories": {
+      "auth": {
+        "reactamplifiedba358816": {}
+      }
     }
   }
 }
